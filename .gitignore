@@ -1,0 +1,9 @@
+# Personal source material and local previews are never published.
+.review/
+.private/
+*.pdf
+*.docx
+.env
+.env.*
+__pycache__/
+.DS_Store
