@@ -1,6 +1,6 @@
-![Bola Maged — Generative AI Engineer building AI systems from research to deployment](assets/profile-banner.svg)
+![Bola Maged — AI Engineer building AI systems from research to deployment](assets/profile-banner.svg)
 
-I'm **Bola Maged Ramses Nessim**, a **Generative AI Engineer with 1.5 years of hands-on experience** building and deploying AI systems across agents, retrieval, speech, document understanding, and computer vision.
+I'm **Bola Maged Ramses Nessim**, an **AI Engineer** building and deploying AI systems across machine learning, agents, retrieval, speech, document understanding, and computer vision.
 
 My work spans the full pipeline: preparing data, adapting models, designing agent workflows, connecting tools and databases, evaluating behavior, and deploying the application. I care about response quality, latency, GPU memory, and how a system recovers when something fails.
 
@@ -31,8 +31,8 @@ These areas include professional and independent work. The repositories below ar
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/bmaged23/MarketDeepAgent">Market Deep Agent</a></h3>
-<p>An agentic market-research assistant using multi-step planning, delegated research, and structured report generation.</p>
-<p><strong>DeepAgents · Tool use · Research workflows</strong></p>
+<p>A grocery marketplace with an AI shopping assistant that coordinates product retrieval and cart agents for comparisons, nutrition questions, and confirmed orders.</p>
+<p><strong>DeepAgents · Hybrid retrieval · SQLite / Qdrant</strong></p>
 <p><a href="https://github.com/bmaged23/MarketDeepAgent">Explore project</a></p>
 </td>
 </tr>
@@ -73,7 +73,7 @@ Also: [Voca — English voice conversation](https://github.com/bmaged23/voice-co
 | Focus | Tools |
 | --- | --- |
 | Agents, retrieval & observability | LangGraph, LangChain, DeepAgents, LangSmith, Qdrant, FAISS, MCP |
-| Models & learning | Python, PyTorch, TensorFlow, Hugging Face, LoRA, quantization, vLLM |
+| Models & learning | Python, PyTorch, TensorFlow, scikit-learn, Hugging Face, LoRA, quantization, vLLM |
 | Speech & vision | NeMo, Whisper, Qwen, Kokoro, Piper, OpenCV, YOLO, MediaPipe |
 | Applications & infrastructure | FastAPI, React, Streamlit, Docker, Kubernetes, Linux, Git, CI/CD |
 | Data & storage | NumPy, Pandas, scikit-learn, PostgreSQL, MySQL, SQLite |
