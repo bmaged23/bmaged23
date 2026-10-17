@@ -64,6 +64,14 @@ These areas include professional and independent work. The repositories below ar
 <p><a href="https://github.com/bmaged23/multi-person-attention-tracking">Explore project</a></p>
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+<h3><a href="https://github.com/bmaged23/rainscope-ml">RainScope ML — Australian Rainfall Prediction</a></h3>
+<p>A tabular ML study comparing classical baselines, TabM and TabICLv2 with chronological validation, data-quality analysis, station-level error reports, resource measurements and a Streamlit dashboard. Model selection precedes the final holdout evaluation; foundation-model context limits and source attribution are documented.</p>
+<p><strong>scikit-learn · PyTorch · TabM · TabICLv2 · Reproducible evaluation</strong></p>
+<p><a href="https://github.com/bmaged23/rainscope-ml/blob/main/reports/RESULTS.md">Read recorded results</a> · <a href="https://github.com/bmaged23/rainscope-ml">Explore project</a></p>
+</td>
+</tr>
 </table>
 
 Also: [Voca — English voice conversation](https://github.com/bmaged23/voice-conversation) · [Live demo](https://bmaged23.github.io/voice-conversation/demo.html)
