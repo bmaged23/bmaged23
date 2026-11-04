@@ -30,10 +30,10 @@ These areas include professional and independent work. The repositories below ar
 <p><a href="https://bmaged23.github.io/Fitness_multiagent_RAG/demo.html">Watch demo</a> · <a href="https://github.com/bmaged23/Fitness_multiagent_RAG">Explore code</a></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/bmaged23/MarketDeepAgent">Market Deep Agent</a></h3>
-<p>A grocery marketplace with an AI shopping assistant that coordinates product retrieval and cart agents for comparisons, nutrition questions, and confirmed orders.</p>
-<p><strong>DeepAgents · Hybrid retrieval · SQLite / Qdrant</strong></p>
-<p><a href="https://github.com/bmaged23/MarketDeepAgent">Explore project</a></p>
+<h3><a href="https://github.com/bmaged23/multimodal-document-parser">Multimodal Document Parser</a></h3>
+<p>Compare four OCR execution profiles on shared document selections, with source-linked evaluation and an interactive viewer for text, handwriting, tables, charts and images. Includes a quantized GPU parsing pipeline and reproducible deployment.</p>
+<p><strong>OCR / VLMs · Evaluation · FastAPI · Docker</strong></p>
+<p><a href="https://bmaged23.github.io/multimodal-document-parser/?v=5.5">Try interactive demo</a> · <a href="https://bmaged23.github.io/multimodal-document-parser/evaluation/">View evaluation</a> · <a href="https://github.com/bmaged23/multimodal-document-parser">Explore code</a></p>
 </td>
 </tr>
 <tr>
@@ -44,24 +44,24 @@ These areas include professional and independent work. The repositories below ar
 <p><a href="https://bmaged23.github.io/linguabridge-en-de-sts/demo.html?v=2">Watch demo</a> · <a href="https://github.com/bmaged23/linguabridge-en-de-sts">Explore code</a></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/bmaged23/train-rnn-asd">Active-Speaker Detection</a></h3>
-<p>Visual-only speaking detection from face sequences, exploring landmark BiLSTM, image CNN+LSTM, and adapted vision-language approaches with held-out evaluation.</p>
-<p><strong>PyTorch · MediaPipe · Temporal models · VLMs</strong></p>
-<p><a href="https://github.com/bmaged23/train-rnn-asd">Explore experiments</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <h3><a href="https://github.com/bmaged23/face-recognition-attendance">Face Recognition & Attendance</a></h3>
 <p>GPU face recognition for video and live-camera input, with face enrollment and optional check-in/check-out attendance workflows.</p>
 <p><strong>AdaFace · Python · Computer vision</strong></p>
 <p><a href="https://github.com/bmaged23/face-recognition-attendance">Explore project</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/bmaged23/multi-person-attention-tracking">Multi-Person Attention Tracking</a></h3>
-<p>Multi-person visual attention tracking using object detection, facial landmarks, track association, and annotated video output.</p>
-<p><strong>YOLO · MediaPipe · Video processing</strong></p>
-<p><a href="https://github.com/bmaged23/multi-person-attention-tracking">Explore project</a></p>
+<h3><a href="https://github.com/bmaged23/MarketDeepAgent">Market Deep Agent</a></h3>
+<p>A grocery marketplace with an AI shopping assistant that coordinates product retrieval and cart agents for comparisons, nutrition questions, and confirmed orders.</p>
+<p><strong>DeepAgents · Hybrid retrieval · SQLite / Qdrant</strong></p>
+<p><a href="https://github.com/bmaged23/MarketDeepAgent">Explore project</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/bmaged23/train-rnn-asd">Active-Speaker Detection</a></h3>
+<p>Visual-only speaking detection from face sequences, exploring landmark BiLSTM, image CNN+LSTM, and adapted vision-language approaches with held-out evaluation.</p>
+<p><strong>PyTorch · MediaPipe · Temporal models · VLMs</strong></p>
+<p><a href="https://github.com/bmaged23/train-rnn-asd">Explore experiments</a></p>
 </td>
 </tr>
 <tr>
